@@ -1,6 +1,6 @@
 # AIPR Lite 1 (64-bit)
 
-Mayachitra's Advanced Image Pair Registration software
+Mayachitra's Advanced Image Pair Registration Software
 ![Alt Text](Long-Beach-01-b.gif)
 
 _AIPR Lite 1 (64-bit)_ is an easy-to-use extension to add image registration capabilities directly to your operating system. The software seamlessly integrates with Windows Explorer, providing new functions for creating stunningly beautiful panoramas with just a few clicks. _AIPR Lite 1_ comes with an incredibly simple user interface that enables you to create your panorama easily and, most important, without having to master any image processing concepts. <br />
