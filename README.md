@@ -10,6 +10,13 @@ Version: 1.0.102.1343 <br />
 Release: July 11, 2010 <br />
 Operating Systems supported: Windows 2003, Windows Vista, Windows, Windows 7, Windows XP
 
+### Contact Us
+Mayachitra, Inc <br />
+5266 Hollister Ave, Suite 229, Santa Barbara, CA, 93111 <br />
+Phone: 1-(805)-967-9828
+Fax: 1-(805)-456-4343
+Have more questions? Write to us by filling in this <a href="https://mayachitra.com/#contact-us">form</a>
+
 
 
 
