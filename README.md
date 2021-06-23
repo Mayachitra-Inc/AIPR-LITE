@@ -13,8 +13,8 @@ Operating Systems supported: Windows 2003, Windows Vista, Windows, Windows 7, Wi
 ### Contact Us
 Mayachitra, Inc <br />
 5266 Hollister Ave, Suite 229, Santa Barbara, CA, 93111 <br />
-Phone: 1-(805)-967-9828
-Fax: 1-(805)-456-4343
+Phone: 1-(805)-967-9828 <br />
+Fax: 1-(805)-456-4343 <br />
 Have more questions? Write to us by filling in this <a href="https://mayachitra.com/#contact-us">form</a>
 
 
