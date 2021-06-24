@@ -12,6 +12,7 @@ _AIPR Lite 1_ is a software tool designed to register unordered sets of images a
 Version: 1.0.102.1343 <br />
 Release: July 11, 2010 <br />
 Operating Systems supported: Windows XP, Windows 2003, Windows Vista, Windows 7, Windows 10 (in "Windows 7" compatibility mode)
+Additional Requirements: Microsoft .NET Framework 3.5
 
 ## Contact Us
 
